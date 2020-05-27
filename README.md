@@ -22,7 +22,7 @@ Exploración de la bases de datos. Medidas de Estadística Descriptiva. Gráfico
 
 #### TP2: Análisis y Curación de Datos
 
-Curación de la base de datos. Imputación de faltantes. Reconstrucción de serie de tipo de cambio de Argentina. Expresión de los índices en moneda común. Transformaciones de los datos. Análisis de componentes principales.
+Curación de la base de datos. Imputación de faltantes. Reconstrucción de serie de tipo de cambio de Argentina. Expresión de los índices en moneda común. Transformaciones de los datos.
 
 ### TP3: Introducción al Machine Learning
 
@@ -39,6 +39,6 @@ Aplicacion de algoritmos de clustering de series de tiempo.
 
 #### Optaviva relacionada >> Series de tiempo.
 
-#### Ideas para presentación final >> Combinación de modelos de la literatura específica de series temporales (ARMA - VAR) con LSTM. Presentación de los resultados de los prácticos.
+#### Ideas para presentación final >> Combinación de modelos de la literatura específica de series temporales (ARMA - VAR - VECM) con LSTM. Presentación de los resultados de los prácticos.
 
 
