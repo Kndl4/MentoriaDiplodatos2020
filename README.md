@@ -12,7 +12,7 @@ Uno de los desafíos mas interesantes de la mentoría consiste en que, al no ser
 
 ## Detalles
 
-En el archivo dataset.csv se proveen datos sobre los valores de cierre diario de 11 índices bursátiles (aproximadamente 19 años), y series de tipos de cambio para efectuar el análisis en una moneda común. Dicho dataset también contiene una serie de dolar "blue" para ajustar el tipo de cambio de Argentina en épocas de cepo cambiario.
+En el archivo [dataset.csv](https://github.com/sergiobuzzi/MentoriaDiplodatos2020/blob/master/dataset.csv) se proveen datos sobre los valores de cierre diario de 11 índices bursátiles (aproximadamente 19 años), y series de tipos de cambio para efectuar el análisis en una moneda común. Dicho dataset también contiene una serie de dolar "blue" para ajustar el tipo de cambio de Argentina en épocas de cepo cambiario.
 
 Luego se presentan carpetas en las cuales se irán cargando los enunciados y soluciones de cada uno de los trabajos prácticos. A continuación se plantean los posibles contenidos generales a desarollar en los mismos:
 
