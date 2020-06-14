@@ -24,19 +24,19 @@ Exploración de la bases de datos. Medidas de Estadística Descriptiva. Gráfico
 
 Curación de la base de datos. Imputación de faltantes. Reconstrucción de serie de tipo de cambio de Argentina. Expresión de los índices en moneda común. Transformaciones de los datos.
 
-### TP3: Introducción al Machine Learning (16/8)
+#### TP3: Introducción al Machine Learning (16/8)
 
 Separación de datos en entremamiento, validación y test. Aplicación de metodos simples de ML para regresión univariante. Selección de métrica. Selección de hiperparámetros. Comparación de resultados.
 
-### TP4: Aprendizaje Supervisado (13/9)
+#### TP4: Aprendizaje Supervisado (13/9)
 
 Estimación de modelos de serie temporales univariados y multivariados (ARMA y VAR). Estimación usando LSTM. Comparación. 
 
-### TP5: Aprendizaje No Supervisado (27/9)
+#### TP5: Aprendizaje No Supervisado (27/9)
 
 Aplicacion de algoritmos de clustering de series de tiempo.
 
-### Presentación Final (6/11 - 7/11) 
+#### Presentación Final (6/11 - 7/11) 
 
 Ideas: Combinación de modelos de la literatura específica de series temporales (ARMA - VAR - VECM) con LSTM. Presentación de los resultados de los prácticos.
 
